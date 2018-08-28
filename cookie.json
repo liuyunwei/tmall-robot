@@ -1,0 +1,182 @@
+[
+	{
+		"domain": ".tmall.com",
+		"expires": "Fri, 29 Oct 2027 10:52:55 GMT",
+		"expiry": 1824807175,
+		"httponly": false,
+		"name": "cna",
+		"path": "/",
+		"secure": false,
+		"value": "/kN/EkB4XGUCAXt+bXoQJXws"
+	},
+	{
+		"domain": ".tmall.com",
+		"expires": "Sun, 29 Apr 2018 10:52:53 GMT",
+		"expiry": 1524999173,
+		"httponly": false,
+		"name": "isg",
+		"path": "/",
+		"secure": false,
+		"value": "Aigoh8mc5TNIoMm3qRFU4C1a9RA6UYxbMXK1_OJZdKOWPcinimFc677_9e8y"
+	},
+	{
+		"domain": ".tmall.com",
+		"httponly": false,
+		"name": "_tb_token_",
+		"path": "/",
+		"secure": false,
+		"value": "fbf66be1e67f1"
+	},
+	{
+		"domain": ".tmall.com",
+		"httponly": false,
+		"name": "skt",
+		"path": "/",
+		"secure": false,
+		"value": "862c8f39d148346e"
+	},
+	{
+		"domain": ".tmall.com",
+		"expires": "Thu, 30 Nov 2017 10:52:52 GMT",
+		"expiry": 1512039172,
+		"httponly": false,
+		"name": "uss",
+		"path": "/",
+		"secure": false,
+		"value": "BdYDw4SdSt2E97eZNw8oPmNkLj8K2zJITt7YOk7%2BRiMDyXzEBEv53m%2B0YA%3D%3D"
+	},
+	{
+		"domain": ".tmall.com",
+		"httponly": false,
+		"name": "t",
+		"path": "/",
+		"secure": false,
+		"value": "7646cac72c6b73d582da29a5aa382794"
+	},
+	{
+		"domain": ".tmall.com",
+		"httponly": false,
+		"name": "_nk_",
+		"path": "/",
+		"secure": false,
+		"value": "%5Cu9AD8%5Cu5C1A%5Cu7684%5Cu4E0A%5Cu5C09"
+	},
+	{
+		"domain": ".tmall.com",
+		"httponly": true,
+		"name": "cookie2",
+		"path": "/",
+		"secure": false,
+		"value": "2b6a3a9f8700e532e92de4603e290318"
+	},
+	{
+		"domain": ".tmall.com",
+		"httponly": true,
+		"name": "cookie17",
+		"path": "/",
+		"secure": false,
+		"value": "UNk0xFxRCGAN"
+	},
+	{
+		"domain": ".tmall.com",
+		"httponly": false,
+		"name": "login",
+		"path": "/",
+		"secure": false,
+		"value": "true"
+	},
+	{
+		"domain": ".tmall.com",
+		"httponly": true,
+		"name": "cookie1",
+		"path": "/",
+		"secure": false,
+		"value": "BdTu3BGttWwWZf2iiNhpeLUfdKViHIbj1GERF%2BGU4VY%3D"
+	},
+	{
+		"domain": ".tmall.com",
+		"httponly": false,
+		"name": "lgc",
+		"path": "/",
+		"secure": false,
+		"value": "%5Cu9AD8%5Cu5C1A%5Cu7684%5Cu4E0A%5Cu5C09"
+	},
+	{
+		"domain": ".tmall.com",
+		"httponly": false,
+		"name": "unb",
+		"path": "/",
+		"secure": false,
+		"value": "393642850"
+	},
+	{
+		"domain": ".tmall.com",
+		"httponly": false,
+		"name": "ck1",
+		"path": "/",
+		"secure": false,
+		"value": ""
+	},
+	{
+		"domain": ".tmall.com",
+		"httponly": false,
+		"name": "_l_g_",
+		"path": "/",
+		"secure": false,
+		"value": "Ug%3D%3D"
+	},
+	{
+		"domain": ".tmall.com",
+		"httponly": false,
+		"name": "tracknick",
+		"path": "/",
+		"secure": false,
+		"value": "%5Cu9AD8%5Cu5C1A%5Cu7684%5Cu4E0A%5Cu5C09"
+	},
+	{
+		"domain": ".tmall.com",
+		"httponly": true,
+		"name": "uc3",
+		"path": "/",
+		"secure": false,
+		"value": "sg2=U7ARaO22mUINOr9qdhMrG%2FstjOQ6GvEtzT2MJO5DD2I%3D&nk2=2%2FxoXkhSNAlNsQ%3D%3D&id2=UNk0xFxRCGAN&vt3=F8dBzLKHf1bsqObme70%3D&lg2=VT5L2FSpMGV7TQ%3D%3D"
+	},
+	{
+		"domain": ".tmall.com",
+		"httponly": false,
+		"name": "uc1",
+		"path": "/",
+		"secure": false,
+		"value": "cookie14=UoTcBryl%2FWki3w%3D%3D&lng=zh_CN&cookie16=UtASsssmPlP%2Ff1IHDsDaPRu%2BPw%3D%3D&existShop=false&cookie21=UtASsssme%2BBq&tag=8&cookie15=U%2BGCWk%2F75gdr5Q%3D%3D&pas=0"
+	},
+	{
+		"domain": ".tmall.com",
+		"expires": "Thu, 30 Nov 2017 10:52:52 GMT",
+		"expiry": 1512039172,
+		"httponly": false,
+		"name": "hng",
+		"path": "/",
+		"secure": false,
+		"value": ""
+	},
+	{
+		"domain": ".www.tmall.com",
+		"expires": "Wed, 31 Oct 2018 09:43:17 GMT",
+		"expiry": 1540950197,
+		"httponly": false,
+		"name": "cq",
+		"path": "/",
+		"secure": false,
+		"value": "ccp%3D1"
+	},
+	{
+		"domain": ".www.tmall.com",
+		"expires": "Fri, 29 Oct 2027 00:59:14 GMT",
+		"expiry": 1824742754,
+		"httponly": false,
+		"name": "_med",
+		"path": "/",
+		"secure": false,
+		"value": "dw:1024&dh:768&pw:1024&ph:768&ist:1"
+	}
+]
